@@ -6,3 +6,6 @@ Packages that you need to install.
 pip install aiogram, pip install moviepy
 
 To work you need to get api_key to your bot.
+
+
+All other instructions in script >>>>>>>>>>> @Tidunbly
